@@ -1,0 +1,26 @@
+{
+  "name": "SE Academy — Interactive Structural Engineering Textbook",
+  "short_name": "SE Academy",
+  "description": "หนังสือเรียนวิศวกรรมโครงสร้างแบบ Interactive พร้อมแบบฝึกหัดและเครื่องคำนวณ",
+  "start_url": "/?source=pwa#home",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f6f4",
+  "theme_color": "#132a3f",
+  "lang": "th",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
